@@ -1,0 +1,697 @@
+{
+    "34": {
+        "cityName": "istanbul",
+        "phoneCode": [
+            "0212",
+            "0216"
+        ],
+        "districts": [
+            "adalar",
+            "arnavutkoy",
+            "atasehir",
+            "avcilar",
+            "bagcilar",
+            "bahcelievler",
+            "bakirkoy",
+            "basaksehir",
+            "bayrampasa",
+            "besiktas",
+            "beykoz",
+            "beylikduzu",
+            "beyoglu",
+            "buyukcekmece",
+            "catalca",
+            "cekmekoy",
+            "esenler",
+            "esenyurt",
+            "eyupsultan",
+            "fatih",
+            "gaziosmanpasa",
+            "gongoren",
+            "kadikoy",
+            "kagithane",
+            "kartal",
+            "kucukcekmece",
+            "maltepe",
+            "pendik",
+            "sancaktepe",
+            "sariyer",
+            "silivri",
+            "sultanbeyli",
+            "sultangazi",
+            "sile",
+            "sisli",
+            "tuzla",
+            "umraniye",
+            "uskudar",
+            "zeytinburnu"
+        ]
+    },
+    "06": {
+        "cityName": "ankara",
+        "phoneCode": [
+            "0312"
+        ],
+        "districts": [
+            "altindag",
+            "cankaya",
+            "etimesgut",
+            "golbasi",
+            "kecioren",
+            "mamak",
+            "pursaklar",
+            "sincan",
+            "yenimahalle",
+            "akyurt",
+            "ayas",
+            "bala",
+            "beypazari",
+            "camlidere",
+            "cubuk",
+            "elmadag",
+            "evren",
+            "gudul",
+            "haymana",
+            "kahramankazan",
+            "kalecik",
+            "kizilcahamam",
+            "nallihan",
+            "polatli",
+            "sereflikochisar"
+        ]
+    },
+    "01": {
+        "cityName": "adana",
+        "phoneCode": [
+            "0322"
+        ],
+        "districts": [
+            "cukurova",
+            "saricam",
+            "seyhan",
+            "yuregir",
+            "aladag",
+            "ceyhan",
+            "feke",
+            "imamoglu",
+            "karaisali",
+            "karatas",
+            "kozan",
+            "polatli",
+            "saimbeyli",
+            "tufanbeyli",
+            "yumurtalik"
+        ]
+    },
+    "16": {
+        "cityName": "bursa",
+        "phoneCode": [
+            "0224"
+        ],
+        "districts": [
+            "gursu",
+            "kestel",
+            "nilufer",
+            "osmangazi",
+            "yildirim",
+            "buyukorhan",
+            "gemlik",
+            "harmancik",
+            "inegol",
+            "iznik",
+            "karacabey",
+            "keles",
+            "mudanya",
+            "mustafakemalpasa",
+            "orhaneli",
+            "orhangazi",
+            "yenisehir"
+        ]
+    },
+    "67": {
+        "cityName": "zonguldak",
+        "phoneCode": [
+            "0372"
+        ],
+        "districts": [
+            "zonguldak",
+            "alapli",
+            "caycuma",
+            "devrek",
+            "gokcebey",
+            "karadeniz eregli",
+            "kilimli",
+            "kozlu"
+        ]
+    },
+    "48": {
+        "cityName": "mugla",
+        "phoneCode": [
+            "0252"
+        ],
+        "districts": [
+            "mentese",
+            "bodrum",
+            "dalaman",
+            "datca",
+            "fethiye",
+            "kavaklidere",
+            "koycegiz",
+            "marmaris",
+            "milas",
+            "ortaca",
+            "seydikemer",
+            "ula",
+            "yatagan"
+        ]
+    },
+    "50": {
+        "cityName": "nevsehir",
+        "phoneCode": [
+            "0384"
+        ],
+        "districts": [
+            "nevsehir",
+            "acigol",
+            "avanos",
+            "derinkuyu",
+            "gulsehir",
+            "hacibektas",
+            "kozakli",
+            "urgup"
+        ]
+    },
+    "61": {
+        "cityName": "trabzon",
+        "phoneCode": [
+            "0462"
+        ],
+        "districts": [
+            "ortahisar",
+            "akcaabat",
+            "arakli",
+            "arsin",
+            "besikduzu",
+            "carsibasi",
+            "caykara",
+            "dernekpazari",
+            "duzkoy",
+            "hayrat",
+            "koprubasi",
+            "macka",
+            "of",
+            "surmene",
+            "salpazari",
+            "tonya",
+            "vakfikebir",
+            "yomra"
+        ]
+    },
+    "07": {
+        "cityName": "antalya",
+        "phoneCode": [
+            "0242"
+        ],
+        "districts": [
+            "aksu",
+            "dosemealti",
+            "kepez",
+            "konyaalti",
+            "muratpasa",
+            "akseki",
+            "alanya",
+            "demre",
+            "elmali",
+            "finike",
+            "gazipasa",
+            "gundogmus",
+            "ibradi",
+            "kas",
+            "kemer",
+            "korkuteli",
+            "kumluca",
+            "manavgat",
+            "serik"
+        ]
+    },
+    "17": {
+        "cityName": "canakkale",
+        "phoneCode": [
+            "0286"
+        ],
+        "districts": [
+            "canakkale",
+            "ayvacik",
+            "bayramic",
+            "biga",
+            "bozcaada",
+            "can",
+            "eceabat",
+            "ezine",
+            "gelibolu",
+            "gokceada",
+            "lapseki",
+            "yenice"
+        ]
+    },
+    "33": {
+        "cityName": "mersin",
+        "phoneCode": [
+            "0324"
+        ],
+        "districts": [
+            "akdeniz",
+            "mezitli",
+            "toroslar",
+            "yenisehir",
+            "anamur",
+            "aydincik",
+            "bozyazi",
+            "camliyayla",
+            "erdemli",
+            "gulnar",
+            "mut",
+            "silifke",
+            "tarsus"
+        ]
+    },
+    "44": {
+        "cityName": "malatya",
+        "phoneCode": [
+            "0422"
+        ],
+        "districts": [
+            "battalgazi",
+            "yesilyurt",
+            "akcadag",
+            "arapgir",
+            "arguvan",
+            "darende",
+            "dogansehir",
+            "doganyol",
+            "hekimhan",
+            "kale",
+            "kuluncak",
+            "puturge",
+            "yazihan"
+        ]
+    },
+    "63": {
+        "cityName": "sanliurfa",
+        "phoneCode": [
+            "0414"
+        ],
+        "districts": [
+            "eyyubiye",
+            "haliliye",
+            "karakopru",
+            "akcakale",
+            "birecik",
+            "bozova",
+            "ceylanpinar",
+            "halfeti",
+            "harran",
+            "hilvan",
+            "siverek",
+            "suruc",
+            "viransehir"
+        ]
+    },
+    "54": {
+        "cityName": "sakarya",
+        "phoneCode": [
+            "0264"
+        ],
+        "districts": [
+            "adapazari",
+            "arifiye",
+            "erenler",
+            "serdivan",
+            "akyazi",
+            "ferizli",
+            "geyve",
+            "hendek",
+            "karapurcek",
+            "karasu",
+            "kaynarca",
+            "kocaali",
+            "pamukova",
+            "sapanca",
+            "sogutlu",
+            "tarakli"
+        ]
+    },
+    "38": {
+        "cityName": "kayseri",
+        "phoneCode": [
+            "0352"
+        ],
+        "districts": [
+            "hacilar",
+            "kocasinan",
+            "melikgazi",
+            "talas",
+            "akkisla",
+            "bunyan",
+            "develi",
+            "felahiye",
+            "incesu",
+            "ozvatan",
+            "pinarbasi",
+            "sarioglan",
+            "sariz",
+            "tomarza",
+            "yahyali",
+            "yesilhisar"
+        ]
+    },
+    "26": {
+        "cityName": "eskisehir",
+        "phoneCode": [
+            "0222"
+        ],
+        "districts": [
+            "odunpazari",
+            "tepebasi",
+            "alpu",
+            "beylikova",
+            "cifteler",
+            "gunyuzu",
+            "han",
+            "inonu",
+            "mahmudiye",
+            "mihalgazi",
+            "mihaliccik",
+            "saricakaya",
+            "seyitgazi",
+            "sivrihisar"
+        ]
+    },
+    "25": {
+        "cityName": "erzurum",
+        "phoneCode": [
+            "0442"
+        ],
+        "districts": [
+            "aziziye",
+            "palandoken",
+            "yakutiye",
+            "askale",
+            "cat",
+            "hinis",
+            "horasan",
+            "ispir",
+            "karacoban",
+            "karayazi",
+            "koprukoy",
+            "narman",
+            "oltu",
+            "olur",
+            "pasinler",
+            "pazaryolu",
+            "senkaya",
+            "tekman",
+            "tortum",
+            "uzundere"
+        ]
+    },
+    "41": {
+        "cityName": "kocaeli",
+        "phoneCode": [
+            "0262"
+        ],
+        "districts": [
+            "basiskele",
+            "cayirova",
+            "darica",
+            "derince",
+            "dilovasi",
+            "gebze",
+            "golcuk",
+            "izmir",
+            "kandira",
+            "karamursel",
+            "kartepe",
+            "korfez"
+        ]
+    },
+    "59": {
+        "cityName": "tekirdag",
+        "phoneCode": [
+            "0282"
+        ],
+        "districts": [
+            "suleymanpasa",
+            "cerkezkoy",
+            "corlu",
+            "ergene",
+            "hayrabolu",
+            "kapakli",
+            "malkara",
+            "marmaraereglisi",
+            "muratli",
+            "saray",
+            "sarkoy"
+        ]
+    },
+    "35": {
+        "cityName": "izmir",
+        "phoneCode": [
+            "0232"
+        ],
+        "districts": [
+            "balcova",
+            "bayrakli",
+            "bornova",
+            "buca",
+            "cigli",
+            "gaziemir",
+            "guzelbahce",
+            "karabaglar",
+            "karsiyaka",
+            "konak",
+            "narlidere",
+            "aliaga",
+            "bayindir",
+            "bergama",
+            "beydag",
+            "cesme",
+            "dikili",
+            "foca",
+            "karaburun",
+            "kemalpasa",
+            "kinik",
+            "kiraz",
+            "menderes",
+            "menemen",
+            "odemis",
+            "seferihisar",
+            "selcuk",
+            "tire",
+            "torbani",
+            "urla"
+        ]
+    },
+    "14": {
+        "cityName": "bolu",
+        "phoneCode": [
+            "0374"
+        ],
+        "districts": [
+            "bolu",
+            "dortdivan",
+            "gerede",
+            "goynuk",
+            "kibriscik",
+            "mengen",
+            "mudurnu",
+            "seben",
+            "yenicaga"
+        ]
+    },
+    "31": {
+        "cityName": "hatay",
+        "phoneCode": [
+            "0326"
+        ],
+        "districts": [
+            "antakya",
+            "defne",
+            "altinozu",
+            "arsuz",
+            "belen",
+            "dortyol",
+            "erzin",
+            "hassa",
+            "iskenderun",
+            "kirikhan",
+            "kumlu",
+            "payas",
+            "reyhanli",
+            "samandag",
+            "yayladagi"
+        ]
+    },
+    "77": {
+        "cityName": "yalova",
+        "phoneCode": [
+            "0226"
+        ],
+        "districts": [
+            "yalova",
+            "altinova",
+            "armutlu",
+            "cinarcik",
+            "ciftlikkoy",
+            "termal"
+        ]
+    },
+    "39": {
+        "cityName": "kirklareli",
+        "phoneCode": [
+            "0288"
+        ],
+        "districts": [
+            "kirklareli",
+            "babaeski",
+            "demirkoy",
+            "kofcaz",
+            "luleburgaz",
+            "pehlivankoy",
+            "pinarhisar",
+            "vize"
+        ]
+    },
+    "28": {
+        "cityName": "giresun",
+        "phoneCode": [
+            "0454"
+        ],
+        "districts": [
+            "giresun",
+            "piraziz",
+            "bulancak",
+            "kesap",
+            "espiye",
+            "tirebolu",
+            "gorele",
+            "eynesil",
+            "alucra",
+            "camoluk",
+            "canakci",
+            "dereli",
+            "dogankent",
+            "guce",
+            "sebinkarahisar",
+            "yaglidere"
+        ]
+    },
+    "20": {
+        "cityName": "denizli",
+        "phoneCode": [
+            "0258"
+        ],
+        "districts": [
+            "merkezefendi",
+            "pamukkale",
+            "acipayam",
+            "babadag",
+            "baklan",
+            "bekilli",
+            "beyagac",
+            "bozkurt",
+            "buldan",
+            "cal",
+            "cameli",
+            "cardak",
+            "civril",
+            "guney",
+            "honaz",
+            "kale",
+            "saraykoy",
+            "serinhisar",
+            "tavas"
+        ]
+    },
+    "42": {
+        "cityName": "konya",
+        "phoneCode": [
+            "0332"
+        ],
+        "districts": [
+            "karatay",
+            "meram",
+            "selcuklu",
+            "ahirli",
+            "akoren",
+            "aksehir",
+            "altinekin",
+            "beysehir",
+            "bozkir",
+            "cihanbeyli",
+            "celtik",
+            "cumra",
+            "derbent",
+            "derebucak",
+            "doganhisar",
+            "emirgazi",
+            "eregli",
+            "guneysinir",
+            "hadim",
+            "halkapinar",
+            "huyuk",
+            "ilgin",
+            "kadinhani",
+            "karapinar",
+            "kulu",
+            "sarayonu",
+            "seydisehir",
+            "taskent",
+            "tuzlukcu",
+            "yalihuyuk",
+            "yunak"
+        ]
+    },
+    "21": {
+        "cityName": "diyarbakir",
+        "phoneCode": [
+            "0412"
+        ],
+        "districts": [
+            "baglar",
+            "kayapinar",
+            "sur",
+            "yenisehir",
+            "bismil",
+            "cernik",
+            "cinar",
+            "cungus",
+            "dicle",
+            "egil",
+            "ergani",
+            "hani",
+            "hazro",
+            "kocakoy",
+            "kulp",
+            "lice",
+            "silvan"
+        ]
+    },
+    "22": {
+        "cityName": "edirne",
+        "phoneCode": [
+            "0284"
+        ],
+        "districts": [
+            "edirne",
+            "enez",
+            "havsa",
+            "ipsala",
+            "kesan",
+            "lalapasa",
+            "meric",
+            "suloglu",
+            "uzunkopru"
+        ]
+    }
+}
